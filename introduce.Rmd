@@ -22,7 +22,7 @@ Give me a link one of the books you have read and liked so much.
 Show me an image of the city where you are currently living in (import image from web, otherwise i cannot see it).
 Copy and paste one of the emojis you use frequently in your daily life. 
  
-Finally submit your "letmeintroducemyself-yourname" project to Github so that I can see your answers!..
+Finally render the .Rmd document and push and commit your "letmeintroducemyself-yourname" project to Github so that I can see your answers!..
 
 Looking forward to hearing from you!..
 
