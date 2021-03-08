@@ -1,0 +1,29 @@
+---
+title: "Let me introduce myself"
+author: "Gül İnan"
+date: "3/8/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Hi!..You know me a little bit. But it is now your turn!..I have a couple of questions that I would like you to answer!..
+
+First of all, in YAML part, change the "title" of this document as you wish and replace the "author" with your name. 
+
+Afterwards, tell me about yourself in a 3-4 sentences. 
+What grade student are you?
+"Emphasis" and list the courses (in an unordered way) which you liked so much at ITU (this semester courses are not included).
+List the subjects you have liked most (in an ordered way).
+Type the equation of one of the polynomial functions you like most. 
+Give me a link one of the books you have read and liked so much.
+Show me an image of the city where you are currently living in (import image from web, otherwise i cannot see it).
+Copy and paste one of the emojis you use frequently in your daily life. 
+ 
+Looking forward to hearing from you!..
+
+🥳
+
+p.a. format is free. there is no strict to follow. 
