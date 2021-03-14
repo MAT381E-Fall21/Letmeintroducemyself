@@ -14,7 +14,6 @@ Hi!..You know me a little bit. But it is now your turn!..I have a couple of ques
 First of all, in YAML part, change the "title" of this document as you wish and replace the "author" with your name. 
 
 Afterwards, tell me about yourself in a 3-4 sentences. 
-What grade student are you?
 "Emphasis" and list the courses (in an unordered way) which you liked so much at ITU (this semester courses are not included).
 List the subjects you have liked most (in an ordered way).
 Type the equation of one of the polynomial functions you like most. 
@@ -22,10 +21,10 @@ Give me a link one of the books you have read and liked so much.
 Show me an image of the city where you are currently living in (import image from web, otherwise i cannot see it).
 Copy and paste one of the emojis you use frequently in your daily life. 
  
-Finally render the .Rmd document and push and commit your "letmeintroducemyself-yourname" project to Github so that I can see your answers!..
+Finally render the .Rmd document and commit and push your "letmeintroducemyself-yourname" project to Github so that I can see your answers!..
 
 Looking forward to hearing from you!..
 
 🥳
 
-p.a. format is free. there is no strict to follow. 
+p.s. Format is free. There is no strict rule to follow. 
