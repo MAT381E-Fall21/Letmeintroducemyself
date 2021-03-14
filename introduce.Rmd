@@ -28,4 +28,7 @@ Looking forward to hearing from you!..
 🥳
 
 p.s. Format is free. There is no strict rule to follow. 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 0e6d53810719da1ee056fdfebc265472fb2531a8
