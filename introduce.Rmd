@@ -5,10 +5,6 @@ date: "3/8/2021"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 Hi!..You know me a little bit. But it is now your turn!..I have a couple of questions that I would like you to answer!..
 
 First of all, in YAML part, change the "title" of this document as you wish and replace the "author" with your name. 
@@ -28,7 +24,4 @@ Looking forward to hearing from you!..
 🥳
 
 p.s. Format is free. There is no strict rule to follow. 
-<<<<<<< HEAD
 
-=======
->>>>>>> 0e6d53810719da1ee056fdfebc265472fb2531a8
